@@ -1770,12 +1770,12 @@ a.text-dark:hover, a.text-dark:focus {
   text-align: center;
   border-radius: 50%;
   background-color: #fff;
-  color: #592D8C;
+  color: #592E8C;
   transition: all .2s linear;
 }
 
 .social-media-button a:hover {
-  background-color: #6C55F9;
+  background-color: #592E8C;
   color: #fff;
   text-decoration: none;
   transform: rotate(360deg);
